@@ -31,11 +31,11 @@ let catArray = ['Morpheus', 'Copernicus', 'Garfeild', 'Gigi', 'Tom', 'Simba']
 console.log('the fourth cat is' + catArray[3]);
 
 const catPerson = {
-  cats: ['Morpheus', 'Copernicus', 'Garfeild', 'Gigi', 'Tom', 'Simba'],
+  cats: ['Morpheus2', 'Copernicus', 'Garfeild', 'Gigi', 'Tom', 'Simba'],
   lovesCats: true,
 }
 
-//    PART      3
+//    PART      3 terst
 //
 
 class Pirate {
